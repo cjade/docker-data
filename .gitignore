@@ -3,6 +3,6 @@
 /.idea
 /.vscode
 /.vagrant
-/redis/data
+/redis/data/
 
 
